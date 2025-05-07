@@ -1,8 +1,3 @@
-> **Warning**
->
-> This package is no longer maintained, we strongly recommend using Laravel's official [laravel/octane](https://github.com/laravel/octane) as an alternative. 
-> 
-> If you need coroutine support, consider trying [laravel-hyperf](https://github.com/swooletw/laravel-hyperf) for higher performance (This is a Laravel style Hyperf framework.)
 
 # Laravel-Swoole
 
